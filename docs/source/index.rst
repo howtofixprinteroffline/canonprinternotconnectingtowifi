@@ -3,6 +3,8 @@ Canon Printer Not Connecting to WiFi And How To Fix
 
 Canon printer won’t connect to WiFi is a common issue caused by incorrect credentials, weak signal, or network settings. Restart devices, check WiFi password, and ensure the printer is in setup mode. Updating drivers and placing the printer near the router can help restore a stable wireless connection quickly.
 
+.. raw:: html
+
    <div style="text-align:center;">
      <a href="https://jivo.chat/KlZSRejpBm" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#007BFF; color:#ffffff; padding:12px 24px; text-decoration:none; border-radius:6px; font-size:16px; font-weight:bold;">
        Click Here: Live Chat
