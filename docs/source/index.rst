@@ -7,7 +7,7 @@ Canon printer won’t connect to WiFi is a common issue caused by incorrect cred
 
    <div style="text-align:center;">
      <a href="https://jivo.chat/KlZSRejpBm" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#007BFF; color:#ffffff; padding:12px 24px; text-decoration:none; border-radius:6px; font-size:16px; font-weight:bold;">
-       Click Here: Live Chat
+       Click Here: Live Chat or Dial +1-801-878-6858 USA
      </a>
    </div>
 
